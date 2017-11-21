@@ -1,3 +1,7 @@
+# Warning
+- this code is abandoned.
+- bugs of intel/caffe:nd input,nd conv,nd pooling,nd relu,:)
+- thanks to this awful project,i know that mxnet is the best!
 # New Features!
 - Add new example for C3D Network use intel caffe
 - fix a typo(bug) of a input_data_layer
